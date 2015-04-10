@@ -1,2 +1,2 @@
-# chrome-extension
-This will be our testing/sharing space for our chrome extension build
+# pupify
+Chrome extension to change images on screen to puppies
